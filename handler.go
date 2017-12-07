@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/volatile/core"
+	"github.com/HiLittleCat/core"
 )
 
 // gzippableMinSize is the minimal size (in bytes) a content needs to have to be gzipped.
